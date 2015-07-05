@@ -1,2 +1,3 @@
 # next-move
- NextMove recommends places to settle in Australia based on a distinct sets of user preference criteria’s of things which is important to them.
+NextMove – your safe bet for relocating!
+NextMove finds suitable matches of places (suburbs) to settle in Australia based on a distinct sets of criteria’s that are valuable to a person in their order of preference.
